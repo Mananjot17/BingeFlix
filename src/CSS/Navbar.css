@@ -90,7 +90,7 @@
 
 
 
-@media (max-width: 500px) {
+@media (max-width: 800px) {
     .navbar-search {
         width: 100%;
     }
@@ -102,8 +102,8 @@
         padding: 1rem 0.75rem;
     }
 
-    .navbar-icon .brand p {
-        display: none ;
+    .company-name {
+        display: none;
     }
 }
   

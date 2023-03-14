@@ -91,7 +91,7 @@
 }
 
 
-@media (max-width: 500px) {
+@media (max-width: 800px) {
     /* CSS styles for small screens go here */
     .banner-info-container {
         gap: 0.5rem;

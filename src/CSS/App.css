@@ -30,7 +30,7 @@ img {
 
 
 
-@media (max-width: 500px) {
+@media (max-width: 800px) {
     body{
         padding: 0.5rem;
         padding-top: 5.25rem;

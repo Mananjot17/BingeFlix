@@ -50,7 +50,7 @@ function Navbar() {
       <Link to="/">
         <div className="navbar-icon brand">
           <FontAwesomeIcon icon={faClapperboard} />
-          <p>BingeFlix</p>
+          <p className="company-name">BingeFlix</p>
         </div>
       </Link>
 

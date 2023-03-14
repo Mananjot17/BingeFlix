@@ -31,10 +31,10 @@
 }
 
 
-@media (max-width: 500px) {
+@media (max-width: 800px) {
     /* CSS styles for small screens go here */
     .movielist-container{
-        grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
     }
 }
   

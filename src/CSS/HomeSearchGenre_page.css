@@ -22,7 +22,7 @@
     padding-top: 16px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 800px) {
     .page-left-container{
         width: 100%;
     }
