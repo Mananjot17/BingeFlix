@@ -1,0 +1,35 @@
+.page-container {
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    /* padding-top: 0.5rem; */
+    justify-content: space-between;
+    border-top: 1px solid #262626;
+}
+
+.page-left-container {
+    width: calc(100% - 300px);
+}
+
+
+.page-right-container {
+    position: sticky;
+    top: calc(64px + 0.5rem);
+}
+
+
+.result-title {
+    padding-top: 16px;
+}
+
+@media (max-width: 500px) {
+    .page-left-container{
+        width: 100%;
+    }
+    .result-title {
+        top: 64px;
+        padding-top: 16px;
+        font-size: 1.1rem   ;
+    }
+}
+  
