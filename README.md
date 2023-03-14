@@ -15,8 +15,8 @@ This is my first React Project , therefore the features , ui may be little rusty
 
 1) Clone the repository.
 2) Navigate to the project directory.
-3) Run npm install to install the required packages.
-4) Run npm start to start the application.
+3) Run ```npm install``` to install the required packages.
+4) Run``` npm start``` to start the application.
 5) Open your web browser and navigate to http://localhost:3000/ to view the app.
 
 ## Technologies
