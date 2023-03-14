@@ -32,7 +32,7 @@
     border-bottom: 1px solid #262626;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1000px) {
     /* CSS styles for small screens go here */
     .sidebar-container {
         display: none;
