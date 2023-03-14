@@ -97,5 +97,11 @@
     .navbar-search {
         width: 100%;
     }
+    .navbar > * {
+        margin-right: 0;
+    }
+    .navbar {
+        gap: 1rem;
+    }
 }
   
