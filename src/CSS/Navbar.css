@@ -92,7 +92,7 @@
 
 @media (max-width: 800px) {
     .navbar-search {
-        flex-grow: 1;
+        width: calc(100% - 2rem);
     }
     .navbar > * {
         margin-right: 0;

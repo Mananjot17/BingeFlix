@@ -1,8 +1,6 @@
 .page-container {
-    width: 100%;
     display: flex;
     align-items: flex-start;
-    /* padding-top: 0.5rem; */
     justify-content: space-between;
     border-top: 1px solid #262626;
 }
