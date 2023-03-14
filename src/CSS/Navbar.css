@@ -98,9 +98,12 @@
         margin-right: 0;
     }
     .navbar {
-        overflow: hidden;
         gap: 1rem;
         padding: 1rem 0.75rem;
+    }
+
+    .navbar-icon .brand p {
+        display: none;
     }
 }
   
