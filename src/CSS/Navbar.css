@@ -91,9 +91,6 @@
 
 
 @media (max-width: 500px) {
-    .home{
-        display: none;
-    }
     .navbar-search {
         width: 100%;
     }
@@ -102,6 +99,7 @@
     }
     .navbar {
         gap: 1rem;
+        padding: 1rem 0.75rem;
     }
 }
   

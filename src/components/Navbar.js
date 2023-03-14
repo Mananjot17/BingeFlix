@@ -68,13 +68,6 @@ function Navbar() {
           <FontAwesomeIcon icon={faForward} />
         </div>
       </div>
-
-      <Link to="/">
-        <div className="navbar-icon home">
-          <FontAwesomeIcon icon={faHome} />
-          <p>Home</p>
-        </div>
-      </Link>
     </div>
   );
 }
