@@ -11,7 +11,7 @@ import Moviedetails from "./components/Moviedetails";
 
 function App() {
   return (
-    <div>
+    
       <Router>
         <Navbar />
         <Routes>
@@ -24,9 +24,8 @@ function App() {
           <Route path="/movie/:movieId" element={<Moviedetails />} />
           <Route path="*" element={<Notfound />} />
         </Routes>
+        <ScrollTop />
       </Router>
-      <ScrollTop />
-    </div>
   );
 }
 

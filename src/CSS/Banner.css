@@ -6,6 +6,7 @@
     overflow:hidden;
     align-items: flex-start;
     height: 200px;
+    margin-top: 1rem;
 }
 
 
@@ -99,6 +100,7 @@
     .banner-container{
         height: fit-content;
         font-size: 0.9rem;
+        margin-top: 0;
     }
     .banner-info-movie-title {
         font-size: 1.1rem;
